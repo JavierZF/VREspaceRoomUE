@@ -28,3 +28,5 @@ Set the downloaded libraries on the project Settings, located at Edit>Project Se
 Add the Antilatency Plugin to your project ([website](https://developers.antilatency.com/Root/Index_en.html)) for Unreal 4.27.2 and drag the Escape Room plugin to your project.
 
 Make sure to activate Oculus VR plugin to allow the project to correctly install in Oculus.
+
+The Tutorial Resuelto folder contains an already completed example.
